@@ -1,7 +1,5 @@
 import { knex as setupKnex, Knex } from 'knex'
-import { env } from '../env'
-
-// eslint-disable-next-line no-unused-vars
+import { env } from './env'
 export const config: Knex.Config = {
   client: 'sqlite',
   connection: {
