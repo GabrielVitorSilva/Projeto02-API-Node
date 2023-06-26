@@ -1,3 +1,5 @@
+API Construída em nodeJs no segundo módulo do curso Ignite da rocketseat. Nesse projeto criamos uma api de transações usando: Fastify, Knex, zod, sqlite e postgreSql e diversas estratégias de desenvolvimento e deploy.
+
 # RF
 
 - [x] O usuário deve poder criar uma nova transação;
